@@ -112,33 +112,20 @@ Python为我们提供了完善的基础功能库（你可以类比微信给你�
 
 首先去下载 Python 的安装包，然后运行。
 
+https://www.python.org/downloads/
+
+点击下载最新的3.9版本
+
+
+
 一路“ Next ”到底就 OK 了，不会有捆绑软件的。
 
-#### 2. OSX  
-[TODO]
 
-苹果的 OSX 是自带一个 Python 环境的，但并不是最新的版本。
-
-#### 3. Linux
-几乎所有的 Linux 发行版都会自带 Python ，如果需要，可以使用如下命令：
-
-Ubuntu/Debian:
-```bash
-$ sudo apt-get install python3
-```
-
-Fedora:
-
-最新版本的 Fedora 已经自带 Python 3
-
-事实上，一个**称职**的男朋友应该提前为你准备好一切了。
 
 ### 启动Python环境
 
 1. Windows启动方法
 [Windows启动方法]
-
-2. Linux 和 OSX
 
 ### 书写你的第一个程序
 
