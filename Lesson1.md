@@ -98,6 +98,10 @@ Python为我们提供了完善的基础功能库（你可以类比微信给你�
 
 目前 Python 最新的版本为 3.9（太离谱了，前天还是3.8来着，10月5号刚更新）
 
+顺便一提，Python主要分为2.x版本和3.x版本（就是2开头和3开头）
+
+意思是说，2.x版本和3.x版本语法差距较大，在很多场景代码不兼容，而现在主流都已经采用3.x版本，所以我们学习的是Python3版本
+
 对于编程来讲，首先要在你的电脑上准备好该语言的使用环境（即下载安装配置）
 
 手把手演示下~~~
@@ -116,7 +120,7 @@ https://www.python.org/downloads/
 
 ![avatar](https://github.com/ShimizushimaKana/program-book-for-girlfriend/blob/master/picture/lesson1-1.png)
 
-点击下载最新的3.9版本
+点击下载最新的3.9版本（注意 3点几都无所谓，只要是3开头，我们的语法规范都是相同的，只不过它经常会有小更新而已）
 
 下载完成后打开这个安装包
 
@@ -172,4 +176,27 @@ PyCharm是个功能更完备，适合我们做项目工程的编译工具。在�
 
 另外也没有必要使用Visual Studio Code，我们完全可以使用Pycharm这个Python语言集成环境一步到位。
 
-PyCharm请在https://www.jetbrains.com/pycharm/download/#section=windows这里 下载
+PyCharm请在https://www.jetbrains.com/pycharm/download/#section=windows 这里下载。
+
+我们选择右面的Community社区版。点击Download。
+
+等待下载完成后，打开，进行安装。
+
+一路“Next”，但你可以选择换一个磁盘，除非你的C盘空间真的很大（大于30GB)
+
+该勾的全勾就可以了。
+
+这里具体步骤，参考这篇十分详细的文档：https://cloud.tencent.com/developer/article/1482705
+
+最后安装成功。
+
+那么这个编译器该如何使用，在下一篇教程或者有时间我会手把手指导你的。
+
+总之，到此，我们环境配置的工作基本结束了，我们已经可以开始模仿教程书上的示例代码自己进行尝试了~
+
+最后附上两篇参考教程，也希望你有时间可以自行浏览阅读，都是很适合初学者阅读学习的。
+
+廖雪峰Python3 教程：https://www.liaoxuefeng.com/wiki/1016959663602400
+Python3 教程|菜鸟教程：https://www.runoob.com/python3/python3-tutorial.html
+
+
