@@ -114,7 +114,7 @@ Python为我们提供了完善的基础功能库（你可以类比微信给你�
 
 https://www.python.org/downloads/
 
-![avatar](https://github.com/ShimizushimaKana/program-book-for-girlfriend/blob/master/DM~1%7D68H%7BO%60KEQ)HAGU478K.png)
+![avatar](https://github.com/ShimizushimaKana/program-book-for-girlfriend/blob/master/picture/lesson1-1.png)
 
 点击下载最新的3.9版本
 
@@ -126,7 +126,7 @@ https://www.python.org/downloads/
 
 这一步意思是直接把Python环境配置在你的电脑环境变量中了，就不需要我们另外设置了。
 
-![avatar](https://github.com/ShimizushimaKana/program-book-for-girlfriend/blob/master/l.png)
+![avatar](https://github.com/ShimizushimaKana/program-book-for-girlfriend/blob/master/picture/lesson1-2.png)
 
 ### 启动Python环境
 
