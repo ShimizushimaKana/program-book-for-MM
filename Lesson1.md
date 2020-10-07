@@ -114,6 +114,8 @@ Python为我们提供了完善的基础功能库（你可以类比微信给你�
 
 https://www.python.org/downloads/
 
+![avatar](https://github.com/ShimizushimaKana/program-book-for-girlfriend/blob/master/DM~1%7D68H%7BO%60KEQ)HAGU478K.png)
+
 点击下载最新的3.9版本
 
 下载完成后打开这个安装包
