@@ -197,6 +197,7 @@ PyCharm请在https://www.jetbrains.com/pycharm/download/#section=windows 这里�
 最后附上两篇参考教程，也希望你有时间可以自行浏览阅读，都是很适合初学者阅读学习的。
 
 廖雪峰Python3 教程：https://www.liaoxuefeng.com/wiki/1016959663602400
+
 Python3 教程|菜鸟教程：https://www.runoob.com/python3/python3-tutorial.html
 
 
